@@ -1,0 +1,9 @@
+                                                
+                                                              
+                                                             Requirements for reproducing development environment and code :
+
+                                     Python 3 
+                                     Jupyter notebook
+                                     Installing libraries such as numpy,pandas,scikit-learn,nltk,re,matplotlib and any other necessary in any code blocks.
+                                     
+                                     With these the development environment can be reproduced.
